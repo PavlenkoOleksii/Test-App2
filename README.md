@@ -1,4 +1,4 @@
-# Test Apllication
+# Web-app queries a github service API
 Works as rest for geting data from GitHub (front-end AngularJS back-end Node.js)
 Navigation implemented with Angular UI router. 
 Web-app queries a github service API (https://developer.github.com/v3/repos/) for repositories catalog content, 
